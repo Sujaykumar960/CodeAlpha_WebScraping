@@ -34,14 +34,13 @@ CodeAlpha_WebScraping/
 <br>
 │
 <br>
-├── amazon_scraper.py # Main Python script
+├── amazon_scraper.py 
 <br>
-├── product_details.csv # Sample output file
+├── product_details.csv 
 <br>
-├── requirements.txt # Dependencies
+├── demo.mp4 : CodeAlpha_WebScraping
 <br>
-├── demo.mp4 # Optional: Video demo
-└── README.md # Project overview (this file)
+└── README.md (https://github.com/Sujaykumar960/CodeAlpha_WebScraping/blob/main/README.md)
 
 
 ## 🧪 Sample Output (Terminal)
