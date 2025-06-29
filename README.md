@@ -31,10 +31,15 @@ As part of the **CodeAlpha Internship**, I was assigned to:
 ## 📁 Project Structure
 
 CodeAlpha_WebScraping/
+<br>
 │
+<br>
 ├── amazon_scraper.py # Main Python script
+<br>
 ├── product_details.csv # Sample output file
+<br>
 ├── requirements.txt # Dependencies
+<br>
 ├── demo.mp4 # Optional: Video demo
 └── README.md # Project overview (this file)
 
@@ -42,17 +47,22 @@ CodeAlpha_WebScraping/
 ## 🧪 Sample Output (Terminal)
 
 Product Title: Samsung Galaxy M35 5G (Daybreak Blue, 6GB RAM, 128GB Storage) | Corning Gorilla Glass Victus+ AnTuTu Score 595K+ | Vapour Co oling Chamber | 6000mAh Battery 120Hz Super AMOLED Display Without Charger
+<br>
 Price of Product: 13,999.
+<br>
 Overall Rating: 4.1 out of 5 stars
+<br>
 Number of Reviews: 11,033 ratings
+<br>
 Product Availability: In stock
+<br>
 Description: About this itemMonster Durability & Display Corning Gorilla Glass Victus+, 16.83 Centimeters (6.6" Inch) Super AMOLED Display, FHD+ Resolution with 1080 x 2340 Pixels and 120Hz Refresh RateMonster Processor Exynos 1380 Processor with Vapour Cooling Chamber | Latest Android 14 Operating System having One UI 6.1 platform | 2.4GHz, 2GHz Clock Speed with Octa-Core ProcessorMonster Convenience & S ecurity Samsung Wallet with Tap & Pay Knox Security | Get upto 4 Generations of Androidos Upgrades & 5 Years of Security UpdatesMonst er Camera 50MP (F1.8) Main Wide Angle Camera + 8MP (F2.2) Ultra Wide Angle Camera + 2MP (F2.4) Macro Angle Camera | OIS & Nightography 13MP (F2.2) Selfie Camera Video Maximum Resolution of Ultra HD (3840 x 2160) @30fpsMonster Battery Get a massive 6000mAh Lithium-io n Battery (Non-Removable) with C-Type Fast Charging (25W Charging Support) >See more product details
 
 
 ## 🔗 Links
 
 📂 **GitHub Repository**: [github.com/Sujaykumar960/CodeAlpha_WebScraping](https://github.com/Sujaykumar960/CodeAlpha_WebScraping)  
-📹 **Demo Video**: <video controls src="CodeAlpha_WebScraping.mp4" title="Title"></video>
+📹 **Demo Video**: <video controls src="CodeAlpha_WebScraping.mp4" title="Title"></video> (Easily Downloaded from CodeAlpha_WebScraping.mp4 just click view raw.)
 
 
 ## 🧠 Tools Used
